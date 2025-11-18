@@ -6,4 +6,5 @@ They demonstrate common operations such as **data fetching**, **file uploading**
 ---
 
 ## 📁 Project Structure
-
+- a new PDO connection
+- fileupload.
